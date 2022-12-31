@@ -1,0 +1,73 @@
+.name, .last, .email, .Sign{
+	width: 150px;
+	padding-left: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 18px;
+	border-style: solid;
+	border-color: rgb(172, 167, 167);
+	border-width: 1px;
+	border-radius: 6px;
+}
+.email
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: block;
+	width: 326px;
+}
+.Sign{
+	width: 348px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	color: white;
+	background-color: rgb(0, 106, 255);
+	font-weight: bold;
+	cursor: pointer;
+}
+.login{
+	display: inline-block;
+	margin-right: 50px;
+}
+
+.uber{
+	display: inline-block;
+	vertical-align: top;
+}
+.pick{
+	display: block;
+	width: 320px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	padding-left: 15px;
+	margin-bottom: 10px;
+	background-color: rgba(219, 219, 219, 0.4);
+	border: none;
+	border-radius: 3px;
+}
+.title{
+	margin-top: 0px;
+	margin-bottom: 25px;
+	font-size: 35px;
+	font-family: roboto;
+}
+
+.request, .schedule{
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: none;
+	cursor: pointer;
+}
+.request{
+	background-color: black;
+	color: white;
+	margin-right: 20px;
+	font-size: 15px;
+}
+.schedule{
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
